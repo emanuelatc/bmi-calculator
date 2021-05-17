@@ -2,7 +2,7 @@
 
 BMI Calculator is a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It is a multi screen app with simple functionality but full-on custom styling.
 
-I created this application following the officially recommended course by Flutter found on [The App Brewery](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart).
+I created this application following the officially recommended course by Flutter found on [The App Brewery](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart) website.
 
 The BMI Calculator application can be found in the 12th section of the course.
 
